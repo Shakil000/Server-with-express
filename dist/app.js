@@ -6,10 +6,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 //const express = require('express')
 const express_1 = __importDefault(require("express"));
 const app = (0, express_1.default)();
-const port = 3000;
 app.get('/', (req, res) => {
-    res.send('Hello World!');
+    // console.log({req, res})
+    res.send('I am learning express js and I also want to learn node and other');
 });
-app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`);
-});
+exports.default = app;
