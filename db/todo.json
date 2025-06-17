@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Introduction to JavaScript",
+    "body": "JavaScript is a versatile scripting language used for web development.",
+    "createdAt": "2025-06-01T09:00:00Z"
+  },
+  {
+    "title": "Understanding CSS Flexbox",
+    "body": "Flexbox is a layout module that makes it easy to design flexible responsive layout structure.",
+    "createdAt": "2025-06-02T11:15:00Z"
+  },
+  {
+    "title": "Getting Started with React",
+    "body": "React is a JavaScript library for building user interfaces.",
+    "createdAt": "2025-06-03T14:30:00Z"
+  },
+  {
+    "title": "What is TypeScript?",
+    "body": "TypeScript extends JavaScript by adding types, making code easier to read and debug.",
+    "createdAt": "2025-06-04T08:45:00Z"
+  },
+  {
+    "title": "Using Git and GitHub",
+    "body": "Git is a version control system; GitHub is a platform for hosting and collaborating on Git repositories.",
+    "createdAt": "2025-06-05T10:10:00Z"
+  },
+  {
+    "title": "Responsive Design Principles",
+    "body": "Responsive design ensures your website looks good on all devices.",
+    "createdAt": "2025-06-06T12:20:00Z"
+  },
+  {
+    "title": "Node.js Basics",
+    "body": "Node.js allows you to run JavaScript on the server side.",
+    "createdAt": "2025-06-07T13:40:00Z"
+  },
+  {
+    "title": "Deploying a Web App",
+    "body": "There are many ways to deploy a web application, such as using Vercel, Netlify, or traditional VPS hosting.",
+    "createdAt": "2025-06-08T15:00:00Z"
+  },
+  {
+    "title": "Introduction to MongoDB",
+    "body": "MongoDB is a NoSQL database that stores data in JSON-like documents.",
+    "createdAt": "2025-06-09T16:25:00Z"
+  },
+  {
+    "title": "Handling API Requests",
+    "body": "APIs allow your application to communicate with other services or databases.",
+    "createdAt": "2025-06-10T17:50:00Z"
+  }
+]
